@@ -32,7 +32,7 @@ which catalogs the microbes that colonize human navels
 
 # Demo
 
-To see the example visit https://mhaszek.github.io/plotly-challenge/.
+To see the example visit https://mhaszek.github.io/belly-button-biodiversity-dashboard/.
 
 To run the example locally save the repo, navigate into the repo folder, run `python -m http.server` in command line and visit http://localhost:8000/ in your browser.
 
