@@ -43,3 +43,8 @@ To run the example locally save the repo, navigate into the repo folder, run `py
  * Plotly.js
  * HTML
  * CSS
+
+
+#
+
+#### Contact: mil.haszek@gmail.com
